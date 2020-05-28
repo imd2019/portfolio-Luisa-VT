@@ -1,11 +1,11 @@
 .bodycolor {
-    background-color: goldenrod;
+    background-color: darkblue;
 }
 .grid-container { 
     display: grid; 
-    grid-template-columns: 150px 400px auto;  
+    grid-template-columns: 200px 400px auto;  
     grid-template-rows: 150px auto 800px;
-    background-color: goldenrod;
+    background-color: darkblue;
     column-gap: 20px;
 
 }
